@@ -6,3 +6,4 @@
 - [2026-04-01T08:21:58Z] refactor: simplify conditional logic
 - [2026-04-01T21:36:55Z] refactor: simplify conditional logic
 - [2026-04-01T18:57:08Z] style: apply consistent code formatting
+- [2026-04-01T12:46:40Z] feat: add helper utility function
